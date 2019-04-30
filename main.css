@@ -1,0 +1,10 @@
+body { font-family: sans-serif; }
+n { background-color: #eee; }
+n { bacground-color: #fff; }
+article { border: solid 1px; }
+nav { color: green; }
+
+section, article, footer, {
+  padding: 10px;
+  border-radius: 16px;
+}
